@@ -1,15 +1,6 @@
-# jemdoc: menu{MENU}{index.html}, nofooter  
-==Shange Tang 
-
-~~~
-{}{img_left}{bio.jpg}{}{140}{203}{}
-I am a fourth year Ph.D. student in the Department of [https://orfe.princeton.edu/home Operations Research and Financial Engineering] at Princeton University under the supervision of Professor [https://fan.princeton.edu/ Jianqing Fan] and Professor [https://sites.google.com/view/cjin/home Chi Jin]. Before coming to Princeton, I received my bachelor's degree from School of Mathematical Sciences at Peking University in 2021.\n
-I am interested in statistics and machine learning.\n
-E-mail: /shangetang/ \[@\] princeton \[DOT\] edu
-~~~
-
-
+# jemdoc: menu{MENU}{research.html}, nofooter  
 == Research
+
 My research interests include 
 - Unsupervised Pretraining 
 - Transfer Learning
@@ -19,7 +10,6 @@ My research interests include
 
 
 === Recent Publications 
-
 . Jiawei Ge\*, *Shange Tang\**, Jianqing Fan, Chi Jin, \"On the Provable Advantage of Unsupervised Pretraining.
 \", International Conference on Learning Representations (ICLR) 2024, spotlight. \[[https://arxiv.org/abs/2303.01566/ arXiv]\] 
 . Jiawei Ge\*, *Shange Tang\**, Jianqing Fan, Cong Ma, Chi Jin, \"Maximum Likelihood Estimation is All You Need for Well-Specified Covariate Shift.
@@ -28,8 +18,4 @@ My research interests include
 \", arXiv preprint arXiv:2408.12564 (2024). \[[https://arxiv.org/abs/2408.12564v1/ arXiv]\]
 
 \* denotes equal contribution.
-
-
-\n
-[CV.pdf A brief cv].
-
+   
