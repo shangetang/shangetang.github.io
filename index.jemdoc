@@ -3,7 +3,7 @@
 
 ~~~
 {}{img_left}{bio.jpg}{}{140}{203}{}
-I am a fourth year Ph.D. student in the Department of [https://orfe.princeton.edu/home Operations Research and Financial Engineering] at Princeton University under the supervision of Professor [https://fan.princeton.edu/ Jianqing Fan] and Professor [https://sites.google.com/view/cjin/home Chi Jin]. Before coming to Princeton, I received my bachelor's degree from School of Mathematical Sciences at Peking University in 2021.\n
+I am a fifth year Ph.D. student in the Department of [https://orfe.princeton.edu/home Operations Research and Financial Engineering] at Princeton University under the supervision of Professor [https://fan.princeton.edu/ Jianqing Fan] and Professor [https://sites.google.com/view/cjin/home Chi Jin]. Before coming to Princeton, I received my bachelor's degree from School of Mathematical Sciences at Peking University in 2021.\n
 I am interested in theory and applications of statistics and machine learning.\n
 E-mail: /shangetang/ \[@\] princeton \[DOT\] edu \n
 [https://scholar.google.com/citations?user=UmITOE0AAAAJ Google Scholar]
@@ -17,28 +17,21 @@ My recent research interests include
 - Factor Models
 
 
-=== Recent Publications 
-
-. Haoyu Zhao, Yihan Geng, *Shange Tang*, Yong Lin, Bohan Lyu, Hongzhou Lin, Chi Jin, Sanjeev Arora. \"Ineq-Comp: Benchmarking Human-Intuitive Compositional Reasoning in Automated Theorem Proving on Inequalities.
-\", arXiv preprint arXiv:2505.12680 (2025). \[[https://arxiv.org/abs/2505.12680/ arXiv]\]
-. *Shange Tang*, Yuanhao Wang, Chi Jin, \"Is Elo Rating Reliable? A Study Under Model Misspecification.
-\", arXiv preprint arXiv:2502.10985 (2025). \[[https://arxiv.org/abs/2502.10985/ arXiv]\] 
-. Yong Lin\*, *Shange Tang\**, Bohan Lyu, Jiayun Wu, Hongzhou Lin, Kaiyu Yang, Jia Li, Mengzhou Xia, Danqi Chen, Sanjeev Arora, Chi Jin. \"Goedel-Prover: A Frontier Model for Open-Source Automated Theorem Proving
-\", arXiv preprint arXiv:2502.07640 (2025). \[[https://arxiv.org/abs/2502.07640/ arXiv]\]
-. Kaixuan Huang, Jiacheng Guo, Zihao Li, Xiang Ji, Jiawei Ge, Wenzhe Li, Yingqing Guo, Tianle Cai, Hui Yuan, Runzhe Wang, Yue Wu, Ming Yin, *Shange Tang*, Yangsibo Huang, Chi Jin, Xinyun Chen, Chiyuan Zhang, Mengdi Wang. \"MATH-Perturb: Benchmarking LLMs' Math Reasoning Abilities against Hard Perturbations
-\", arXiv preprint arXiv:2502.06453 (2025). \[[https://arxiv.org/abs/2502.06453/ arXiv]\]
-. *Shange Tang\**, Jiayun Wu\*, Jianqing Fan, Chi Jin, \"Benign Overfitting in Out-of-Distribution Generalization of Linear Models.
-\", arXiv preprint arXiv:2412.14474 (2024). \[[https://arxiv.org/abs/2412.14474/ arXiv]\]
-. *Shange Tang*, Soham Jana, Jianqing Fan, \"Factor Adjusted Spectral Clustering for Mixture Models.
-\", arXiv preprint arXiv:2408.12564 (2024). \[[https://arxiv.org/abs/2408.12564v1/ arXiv]\]
-. Jiawei Ge\*, *Shange Tang\**, Jianqing Fan, Cong Ma, Chi Jin, \"Maximum Likelihood Estimation is All You Need for Well-Specified Covariate Shift.
-\", International Conference on Learning Representations (ICLR) 2024. \[[https://arxiv.org/abs/2311.15961/ arXiv]\]
-. Jiawei Ge\*, *Shange Tang\**, Jianqing Fan, Chi Jin, \"On the Provable Advantage of Unsupervised Pretraining.
-\", International Conference on Learning Representations (ICLR) 2024, spotlight. \[[https://arxiv.org/abs/2303.01566/ arXiv]\] 
-
+== Selected Works
+. Yong Lin, *Shange Tang*, Bohan Lyu, Ziran Yang, Jui-Hui Chung, Haoyu Zhao, Lai Jiang, Yihan Geng, Jiawei Ge, Jingruo Sun, Jiayun Wu, Jiri Gesi, Ximing Lu, David Acuna, Kaiyu Yang, Hongzhou Lin, Yejin Choi, Danqi Chen, Sanjeev Arora, Chi Jin. "Goedel-Prover-V2: Scaling Formal Theorem Proving with Scaffolded Data Synthesis and Self-Correction.", arXiv preprint arXiv:2508.03613 (2025). \[[https://arxiv.org/abs/2508.03613/ arXiv]\]
+. Yong Lin\*, *Shange Tang\**, Bohan Lyu, Jiayun Wu, Hongzhou Lin, Kaiyu Yang, Jia Li, Mengzhou Xia, Danqi Chen, Sanjeev Arora, Chi Jin. "Goedel-Prover: A Frontier Model for Open-Source Automated Theorem Proving.", Conference on Language Modeling (COLM) 2025. \[[https://arxiv.org/abs/2502.07640/ arXiv]\]
+. *Shange Tang\**, Jiayun Wu\*, Jianqing Fan, Chi Jin. "Benign Overfitting in Out-of-Distribution Generalization of Linear Models.", International Conference on Learning Representations (ICLR) 2025. \[[https://arxiv.org/abs/2412.14474/ arXiv]\]
+. *Shange Tang*, Soham Jana, Jianqing Fan. "Factor Adjusted Spectral Clustering for Mixture Models.", arXiv preprint arXiv:2408.12564 (2024). \[[https://arxiv.org/abs/2408.12564v1/ arXiv]\]
+. Jiawei Ge\*, *Shange Tang\**, Jianqing Fan, Cong Ma, Chi Jin. "Maximum Likelihood Estimation is All You Need for Well-Specified Covariate Shift.", International Conference on Learning Representations (ICLR) 2024. \[[https://arxiv.org/abs/2311.15961/ arXiv]\]
+. Jiawei Ge\*, *Shange Tang\**, Jianqing Fan, Chi Jin. "On the Provable Advantage of Unsupervised Pretraining.", International Conference on Learning Representations (ICLR) 2024, spotlight. \[[https://arxiv.org/abs/2303.01566/ arXiv]\]
 
 \* denotes equal contribution.
 
+== Invited Talks
+. "Goedel-Prover-V2: State-of-the-art performance in Automated Mathematical Theorem Proving", Centaur AI Institute, Neural-Symbolic AI Summer School, Aug 2025. \[[https://www.youtube.com/watch?v=-uEx0IICBxg Youtube]\]
+. "Goedel-Prover: A Frontier Model for Open-Source Automated Theorem Proving", TTIC Machine Learning Seminar, Mar 2025.
+. "Benign Overfitting in Out-of-Distribution Generalization of Linear Models", Simons Institute for the Theory of Computing, Domain Adaptation and Related Areas workshop poster session, Nov 2024.
+. "Maximum Likelihood Estimation is All You Need for Well-Specified Covariate Shift", UIUC Machine Learning Seminar, Mar 2024.
 
 \n
 [CV.pdf A brief cv].
